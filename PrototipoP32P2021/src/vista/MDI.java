@@ -49,7 +49,7 @@ public class MDI extends javax.swing.JFrame {
                 break;
             default:
         }
-        this.setTitle("Usuario: " + "[" + "Luis Carlos Lee" + "]");
+        this.setTitle("Usuario: " + "[" + "Luis Carlos Lee Mejia 9959-19-2356" + "]");
         
         
     }
