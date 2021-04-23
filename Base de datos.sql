@@ -71,4 +71,5 @@ CREATE TABLE IF NOT EXISTS `filmMagic`.`tbl_seguridad` (
   PRIMARY KEY (`id_usuario`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8;
-INSERT INTO tbl_seguridad (id_usuario, nombre_usuario, contraseña_usuario, tipo_usuario, estado_usuario) VALUES ('2', 'Esduardo10', 'programacion', '0', '1');
+INSERT INTO tbl_seguridad (id_usuario, nombre_usuario, contraseña_usuario, tipo_usuario, estado_usuario) VALUES ('10', 'leeluis', '123', '0', '1');
+INSERT INTO tbl_seguridad (id_usuario, nombre_usuario, contraseña_usuario, tipo_usuario, estado_usuario) VALUES ('1', 'leeluis500', '123', '1', '1');
